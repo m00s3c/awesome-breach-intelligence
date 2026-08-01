@@ -42,6 +42,7 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 
 ## OSINT Tools
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 - [Maltego](https://www.maltego.com/) - Data mining and link analysis
 - [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices
 - [Censys](https://censys.io/) - Internet-wide scanning and search
