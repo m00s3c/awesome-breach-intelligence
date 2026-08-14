@@ -48,8 +48,9 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) - Web reconnaissance framework
 - [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester
 - [SpiderFoot](https://www.spiderfoot.net/) - Automated OSINT tool
-- [Hunchly](https://www.hunch.ly/) - Web investigation tool
+- [Hunchly](https://hunch.ly/) - Web investigation tool
 - [OSINT Framework](https://osintframework.com/) - Collection of OSINT tools
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP
 
 ## Threat Intelligence Platforms
 
