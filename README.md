@@ -90,8 +90,6 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 - [r/cybersecurity](https://reddit.com/r/cybersecurity) - Cybersecurity discussion
 - [r/OSINT](https://reddit.com/r/OSINT) - Open-source intelligence community
 - [r/netsec](https://reddit.com/r/netsec) - Network security
-- [BreachForums](https://breached.to/) - Data breach discussion (use caution)
-- [Hack Forums](https://hackforums.net/) - Security and programming community
 
 ## API & Developer Tools
 
