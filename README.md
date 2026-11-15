@@ -28,6 +28,7 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 - [BreachDirectory](https://breachdirectory.org/) - Free data breach search
 - [Snusbase](https://snusbase.com/) - Breach database search
 - [Ghost Project](https://ghostproject.fr/) - Password breach checker
+- [TraceFind](https://tracefind.info/data-breach-check) - Email breach lookup across 16B+ records showing which breaches leaked an address, when, and what was exposed, plus infostealer checks
 
 ## Dark Web Monitoring
 
@@ -50,6 +51,7 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 - [SpiderFoot](https://www.spiderfoot.net/) - Automated OSINT tool
 - [Hunchly](https://www.hunch.ly/) - Web investigation tool
 - [OSINT Framework](https://osintframework.com/) - Collection of OSINT tools
+- [TraceFind](https://tracefind.info/) - OSINT lookup for emails, phone numbers, usernames, domains and IPs with breach checks
 
 ## Threat Intelligence Platforms
 
