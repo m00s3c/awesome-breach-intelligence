@@ -50,6 +50,7 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 - [SpiderFoot](https://www.spiderfoot.net/) - Automated OSINT tool
 - [Hunchly](https://www.hunch.ly/) - Web investigation tool
 - [OSINT Framework](https://osintframework.com/) - Collection of OSINT tools
+- [VibeShield](https://vibe-checker.appwrite.network) - Free passive 116-check web app exposure scanner for leaked client-side secrets, exposed dotfiles, security headers, and Supabase/Firebase misconfigurations
 
 ## Threat Intelligence Platforms
 
